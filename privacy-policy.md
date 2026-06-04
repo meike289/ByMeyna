@@ -3,16 +3,16 @@ layout: default
 title: Privacy Policy – ByMeyna
 ---
 
-# Privacy Policy – ByMeyna Autopilot
+# Privacy Policy – ByMeynaDE Autopilot
 
 **Last updated**: 2026-06-04
 
 ## Overview
 
-ByMeyna Autopilot is a personal, locally-run tool used exclusively by its
+ByMeynaDE Autopilot is a personal, locally-run tool used exclusively by its
 owner to automate Pinterest content publishing for the accounts
-[pinterest.com/ByMeyna](https://www.pinterest.com/ByMeyna) and
-[pinterest.com/ByMeynaEN](https://www.pinterest.com/ByMeynaEN).
+[pinterest.com/ByMeynaDE](https://www.pinterest.com/ByMeynaDE) and
+[pinterest.com/ByMeynaDEEN](https://www.pinterest.com/ByMeynaDEEN).
 
 ## Data Collection
 

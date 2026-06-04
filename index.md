@@ -1,18 +1,18 @@
 ---
 layout: default
-title: ByMeyna
+title: ByMeynaDE
 ---
 
-# ByMeyna
+# ByMeynaDE
 
-AI-generated interior design inspiration for your home.
+KI-generierte Einrichtungsinspiration für dein Zuhause.
 
-✨ Discover minimalist, whimsical and cozy home decor ideas — curated by AI.
-
----
-
-📌 [Pinterest DE](https://www.pinterest.com/ByMeyna) · [Pinterest EN](https://www.pinterest.com/ByMeynaEN)
+✨ Entdecke minimalistische, whimsical und gemütliche Wohnideen — kuratiert von KI.
 
 ---
 
-*AI-generated content. All product links are affiliate links.*
+📌 [Pinterest DE](https://www.pinterest.com/ByMeynaDE) · [Pinterest EN](https://www.pinterest.com/ByMeynaEN)
+
+---
+
+*KI-generierte Inhalte. Alle Produktlinks sind Affiliate-Links. 🔗 Werbung | Affiliate-Link*
