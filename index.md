@@ -11,7 +11,7 @@ KI-generierte Einrichtungsinspiration für dein Zuhause.
 
 ---
 
-📌 [Pinterest DE](https://www.pinterest.com/ByMeynaDE) · [Pinterest EN](https://www.pinterest.com/ByMeynaEN)
+📌 [Pinterest](https://www.pinterest.com/ByMeynaDE)
 
 ---
 

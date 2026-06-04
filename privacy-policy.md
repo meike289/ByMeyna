@@ -11,8 +11,7 @@ title: Datenschutzerklärung – ByMeyna
 
 ByMeyna ist ein persönliches, lokal betriebenes Tool das ausschließlich vom
 Eigentümer genutzt wird, um Pinterest-Inhalte für die Accounts
-[pinterest.com/ByMeynaDE](https://www.pinterest.com/ByMeynaDE) und
-[pinterest.com/ByMeynaEN](https://www.pinterest.com/ByMeynaEN) zu veröffentlichen.
+[pinterest.com/ByMeyna](https://www.pinterest.com/ByMeynaDE) zu veröffentlichen.
 
 ## Datenerhebung
 
