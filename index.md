@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ByMeynaDE
+title: ByMeyna
 ---
 
-# ByMeynaDE
+# ByMeyna
 
 KI-generierte Einrichtungsinspiration für dein Zuhause.
 
@@ -15,4 +15,5 @@ KI-generierte Einrichtungsinspiration für dein Zuhause.
 
 ---
 
-*KI-generierte Inhalte. Alle Produktlinks sind Affiliate-Links. 🔗 Werbung | Affiliate-Link*
+*KI-generierte Inhalte. Alle Produktlinks sind Affiliate-Links.*
+*🔗 Werbung | Affiliate-Link*

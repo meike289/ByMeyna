@@ -1,47 +1,52 @@
 ---
 layout: default
-title: Privacy Policy – ByMeyna
+title: Datenschutzerklärung – ByMeyna
 ---
 
-# Privacy Policy – ByMeynaDE Autopilot
+# Datenschutzerklärung – ByMeyna
 
-**Last updated**: 2026-06-04
+**Zuletzt aktualisiert**: 2026-06-04
 
-## Overview
+## Überblick
 
-ByMeynaDE Autopilot is a personal, locally-run tool used exclusively by its
-owner to automate Pinterest content publishing for the accounts
-[pinterest.com/ByMeynaDE](https://www.pinterest.com/ByMeynaDE) and
-[pinterest.com/ByMeynaDEEN](https://www.pinterest.com/ByMeynaDEEN).
+ByMeyna ist ein persönliches, lokal betriebenes Tool das ausschließlich vom
+Eigentümer genutzt wird, um Pinterest-Inhalte für die Accounts
+[pinterest.com/ByMeynaDE](https://www.pinterest.com/ByMeynaDE) und
+[pinterest.com/ByMeynaEN](https://www.pinterest.com/ByMeynaEN) zu veröffentlichen.
 
-## Data Collection
+## Datenerhebung
 
-This tool does **not** collect, store, or share personal data of any
-Pinterest user other than the tool's owner.
+Dieses Tool erhebt, speichert oder teilt **keine** personenbezogenen Daten
+anderer Pinterest-Nutzer.
 
-The tool accesses the following data via Pinterest API on behalf of the
-account owner only:
+Das Tool greift ausschließlich im Namen des Eigentümers auf folgende Daten zu:
 
-- Pinterest account information (username, account type)
-- Board information (board names, IDs)
-- Pin data (images, descriptions, links, analytics)
+- Pinterest-Kontoinformationen (Nutzername, Kontotyp)
+- Board-Informationen (Board-Namen, IDs)
+- Pin-Daten (Bilder, Beschreibungen, Links, Analysen)
 
-## Data Storage
+## Datenspeicherung
 
-All data is stored **locally** on the owner's personal computer.
-No data is transmitted to any third-party server operated by this tool.
+Alle Daten werden **lokal** auf dem Computer des Eigentümers gespeichert.
+Es werden keine Daten an Drittserver übermittelt.
 
-## Third-Party Services
+## Drittanbieter
 
-This tool integrates with:
+Dieses Tool nutzt folgende Dienste:
 
-- **Pinterest API** – for content publishing and analytics
-- **Amazon Associates API** – for affiliate product data
-- **AWIN API** – for affiliate product data
+- **Pinterest API** – für Veröffentlichung und Analysen
+- **Amazon Associates API** – für Affiliate-Produktdaten
+- **AWIN API** – für Affiliate-Produktdaten
 
-Each service's own privacy policy applies to data shared with them.
+Für jeden Dienst gelten die jeweiligen Datenschutzbestimmungen.
 
-## Contact
+## Affiliate-Hinweis
 
-For questions regarding this privacy policy:
+Diese Seite enthält Affiliate-Links. Bei einem Kauf über diese Links
+erhalten wir eine kleine Provision – für dich entstehen keine Mehrkosten.
+🔗 Werbung | Affiliate-Link
+
+## Kontakt
+
+Bei Fragen zur Datenschutzerklärung:
 📧 bymeyna.pins@gmail.com
